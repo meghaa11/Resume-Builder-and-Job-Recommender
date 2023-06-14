@@ -1,0 +1,16 @@
+{
+  "name": "module1_resume_builder",
+  "version": "1.0.0",
+  "description": "first module of the project: resume builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-pie-chart": "^2.1.7",
+    "materialize-css": "^1.0.0-rc.2",
+    "swup": "^3.0.5"
+  }
+}
